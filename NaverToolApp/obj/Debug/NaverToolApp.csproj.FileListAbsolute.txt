@@ -1,0 +1,11 @@
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\bin\Debug\NaverToolApp.exe
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\bin\Debug\NaverToolApp.pdb
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\obj\Debug\NaverToolApp.Form1.resources
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\obj\Debug\NaverToolApp.Properties.Resources.resources
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\obj\Debug\NaverToolApp.csproj.GenerateResource.cache
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\obj\Debug\NaverToolApp.csproj.CoreCompileInputs.cache
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\obj\Debug\NaverToolApp.exe
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\obj\Debug\NaverToolApp.pdb
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\bin\Debug\NaverToolApp.exe.config
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\obj\Debug\Interop.WinHttp.dll
+C:\Users\LongKenj\source\repos\NaverToolApp\NaverToolApp\obj\Debug\NaverToolApp.csproj.ResolveComReference.cache
