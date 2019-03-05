@@ -8,6 +8,7 @@
 
 
 <img src="https://longkenj.website/wp-content/uploads/2019/01/2019-02-16_163851-940x590.jpg">
+
 ----
 ## 2. Yêu cầu cấu hình để chạy công cụ này:
 1. OS Microsoft Windows 7 trở lên. 
