@@ -28,15 +28,13 @@ namespace NaverToolApp
     {
         string version = "1.2.1";
         string versionkeypath = @"SOFTWARE\WOW6432Node\Naver Images Downloader";
-        string versionURL = "https://raw.githubusercontent.com/longkenj/navertool/master/README.md"; //http://longkenj.website/version.txt
+        string versionURL = "https://raw.githubusercontent.com/longkenj/navertool/master/README.md"; //https://dev.longkenj.website/version.txt
         string versiondownloadlink = "http://bit.ly/navertool";
 
         string data = "";
         string file = "";
         string DownloadFolder = "";
         string DATESTAMP = "";
-        string topstar = "";
-        string file3 = "";
         string site = "";
         string url = "";
         string str = "";
@@ -45,10 +43,7 @@ namespace NaverToolApp
         string path = Environment.CurrentDirectory.ToString();
 
         int i = 0;
-        int number = 1;
-        int flag = 0;
         int totalLines = 0;
-        string lastLine = "";
         double bytesIn = 0;
         double totalBytes = 0;
         double percentage = 0;
@@ -299,7 +294,6 @@ namespace NaverToolApp
 
             //lockwhendownload();
             download_progress.Visible = true;
-            number = 1;
 
             DATESTAMP = DateTime.Now.ToString("yyyy_MM_dd");
             DownloadFolder = path + @"\" + site + "_" + DATESTAMP;
@@ -472,7 +466,7 @@ namespace NaverToolApp
 
         private void btnAbout_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://longkenj.website/naver-tool-cong-cu-tai-anh-nhanh-tren-trang-naver/");
+            System.Diagnostics.Process.Start("https://longkenj.website/naver-tool-cong-cu-tai-anh-nhanh-tren-trang-naver/");
         }
 
         private void label3_Click(object sender, EventArgs e)
