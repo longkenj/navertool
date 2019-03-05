@@ -28,7 +28,7 @@ namespace NaverToolApp
     {
         string version = "1.2.1";
         string versionkeypath = @"SOFTWARE\WOW6432Node\Naver Images Downloader";
-        string versionURL = "https://raw.githubusercontent.com/longkenj/navertool/master/README.md"; //https://dev.longkenj.website/version.txt
+        string versionURL = "https://raw.githubusercontent.com/longkenj/navertool/master/VERSION.md"; //https://dev.longkenj.website/version.txt
         string versiondownloadlink = "http://bit.ly/navertool";
 
         string data = "";
