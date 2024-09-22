@@ -18,7 +18,7 @@
 ----
 ## 3. Hướng dẫn sử dụng
 
-<img src="https://longkenj.website/wp-content/uploads/2019/01/2019-02-16_164217.jpg">
+<img src="https://longkenj.com/wp-content/uploads/2019/01/2019-02-16_164217.jpg">
 
 Bạn copy link trang web rồi mở công cụ lên, nhấn vào nút **PASTE LINK**
 
@@ -28,13 +28,13 @@ Bạn copy link trang web rồi mở công cụ lên, nhấn vào nút **PASTE L
 - [https://post.naver.com/viewer/postView.nhn?volumeNo=18029837](https://post.naver.com/viewer/postView.nhn?volumeNo=18029837)
 - [https://entertain.naver.com/read?oid=076&aid=0003379960](https://entertain.naver.com/read?oid=076&aid=0003379960)
     
-<img src="https://longkenj.website/wp-content/uploads/2019/01/2019-02-16_164231.jpg">
+<img src="https://longkenj.com/wp-content/uploads/2019/01/2019-02-16_164231.jpg">
 
 Sau đó nhấn nút **DOWNLOAD** và chờ công cụ thực hiện tải về hàng loạt ảnh trong bài viết đó.
 
 *MẸO*
 
-<img src="https://longkenj.website/wp-content/uploads/2019/01/2019-02-16_164217.jpg">
+<img src="https://longkenj.com/wp-content/uploads/2019/01/2019-02-16_164217.jpg">
 
 Bạn có thể tích vào *Auto open folder when download complete* để khi công cụ tải xong, sẽ tự động mở ra thư mục đã tải.
 
