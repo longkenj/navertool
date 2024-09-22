@@ -7,7 +7,7 @@
 > Là công cụ hỗ trợ các bạn tải ảnh hàng loạt trong một bài viết trên website Naver như: Post.naver.com, Entertain.naver.com, ...
 
 
-<img src="https://longkenj.website/wp-content/uploads/2019/01/2019-02-16_163851-940x590.jpg">
+<img src="https://longkenj.com/wp-content/uploads/2019/01/2019-02-16_163851-940x590.jpg">
 
 ----
 ## 2. Yêu cầu cấu hình để chạy công cụ này:
