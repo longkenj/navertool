@@ -46,6 +46,7 @@ Sử dụng chức năng xem thông tin file ảnh bằng cách click vào nút 
 
 ----
 ## Cập Nhật
+* 2024.09.21 Fix link image của Naver Post
 * 2019.03.05 fix bug
 
 ----
